@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520">
+    <rect width="840" height="520" fill="#f2f7f6"/>
+    <g opacity=".38" stroke="#b9cdca" stroke-width="1">
+      <line x1="80" y1="100" x2="760" y2="100"/><line x1="80" y1="200" x2="760" y2="200"/>
+      <line x1="80" y1="300" x2="760" y2="300"/><line x1="80" y1="400" x2="760" y2="400"/>
+    </g>
+    <g fill="#0f766e" opacity=".85">
+        <circle cx="170" cy="410" r="8"/><circle cx="240" cy="360" r="7"/><circle cx="325" cy="300" r="9"/>
+        <circle cx="405" cy="275" r="6"/><circle cx="500" cy="205" r="8"/><circle cx="600" cy="160" r="7"/>
+        <circle cx="685" cy="115" r="9"/></g><path d="M145 430 L705 95" stroke="#1d4f63" stroke-width="3" opacity=".65"/>
+    <rect x="24" y="24" width="430" height="82" rx="6" fill="#ffffff" opacity=".93"/>
+    <text x="44" y="57" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#102332">VALIDATION</text>
+    <text x="44" y="83" font-family="Arial, sans-serif" font-size="12" fill="#657582">Replace with scatter / error analysis</text>
+    </svg>

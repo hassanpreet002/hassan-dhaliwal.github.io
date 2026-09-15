@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520">
+    <rect width="840" height="520" fill="#f2f7f6"/>
+    <g opacity=".38" stroke="#b9cdca" stroke-width="1">
+      <line x1="80" y1="100" x2="760" y2="100"/><line x1="80" y1="200" x2="760" y2="200"/>
+      <line x1="80" y1="300" x2="760" y2="300"/><line x1="80" y1="400" x2="760" y2="400"/>
+    </g>
+    <path d="M90 410 Q180 170 310 300 T520 235 T750 125" fill="none" stroke="#0f766e" stroke-width="6"/>
+        <circle cx="205" cy="285" r="10" fill="#1d4f63"/><circle cx="510" cy="245" r="10" fill="#1d4f63"/>
+    <rect x="24" y="24" width="430" height="82" rx="6" fill="#ffffff" opacity=".93"/>
+    <text x="44" y="57" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#102332">SPATIAL MAP</text>
+    <text x="44" y="83" font-family="Arial, sans-serif" font-size="12" fill="#657582">Replace with geospatial visualization</text>
+    </svg>

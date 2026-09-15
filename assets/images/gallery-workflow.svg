@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520">
+    <rect width="840" height="520" fill="#f2f7f6"/>
+    <g opacity=".38" stroke="#b9cdca" stroke-width="1">
+      <line x1="80" y1="100" x2="760" y2="100"/><line x1="80" y1="200" x2="760" y2="200"/>
+      <line x1="80" y1="300" x2="760" y2="300"/><line x1="80" y1="400" x2="760" y2="400"/>
+    </g>
+    <g fill="none" stroke="#0f766e" stroke-width="3">
+        <rect x="100" y="220" width="150" height="90" rx="8"/><rect x="340" y="220" width="150" height="90" rx="8"/><rect x="580" y="220" width="150" height="90" rx="8"/>
+        <path d="M250 265 H340 M490 265 H580"/></g>
+        <g fill="#1d4f63"><circle cx="295" cy="265" r="7"/><circle cx="535" cy="265" r="7"/></g>
+    <rect x="24" y="24" width="430" height="82" rx="6" fill="#ffffff" opacity=".93"/>
+    <text x="44" y="57" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#102332">DATA WORKFLOW</text>
+    <text x="44" y="83" font-family="Arial, sans-serif" font-size="12" fill="#657582">Replace with pipeline or processing graphic</text>
+    </svg>

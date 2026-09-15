@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520">
+    <rect width="840" height="520" fill="#f2f7f6"/>
+    <g opacity=".38" stroke="#b9cdca" stroke-width="1">
+      <line x1="80" y1="100" x2="760" y2="100"/><line x1="80" y1="200" x2="760" y2="200"/>
+      <line x1="80" y1="300" x2="760" y2="300"/><line x1="80" y1="400" x2="760" y2="400"/>
+    </g>
+    <path d="M100 350 C170 300 210 355 285 265 S420 240 490 190 S610 230 740 120" fill="none" stroke="#0f766e" stroke-width="6"/>
+        <path d="M100 390 C190 350 250 405 330 315 S500 335 570 280 S680 300 740 245" fill="none" stroke="#1d4f63" stroke-width="4" opacity=".65"/>
+    <rect x="24" y="24" width="430" height="82" rx="6" fill="#ffffff" opacity=".93"/>
+    <text x="44" y="57" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#102332">TIME SERIES</text>
+    <text x="44" y="83" font-family="Arial, sans-serif" font-size="12" fill="#657582">Replace with temporal analysis</text>
+    </svg>
